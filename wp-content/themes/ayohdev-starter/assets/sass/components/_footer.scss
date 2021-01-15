@@ -1,0 +1,28 @@
+//footer
+footer {
+  background: #3e4249;
+  color: white;
+  padding: 20px 0 10px;
+  font-size: 12px;
+}
+
+footer p {
+  margin: 0;
+}
+
+footer a:link,
+footer a:visited {
+  color: white;
+}
+
+footer a:hover {
+  color: #dd5638;
+}
+
+footer li.signup-link a {
+  color: #dd5638;
+}
+
+footer li.signup-link a:hover {
+  font-weight: bold;
+}

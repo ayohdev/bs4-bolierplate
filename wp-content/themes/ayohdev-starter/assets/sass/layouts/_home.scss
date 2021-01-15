@@ -1,0 +1,101 @@
+#optin {
+  background: #3e4249;
+  padding: 20px 0;
+  color: white;
+  -webkit-font-smoothing: antialiased;
+  text-rendering: optimizelegibility;
+  font-size: 1.2em;
+}
+
+#optin p {
+  margin: 7px 0 0 0;
+}
+
+#course-features {
+  background: #3e4249;
+  color: white;
+  text-align: center;
+}
+
+#who-benefits {
+  background: white;
+}
+
+#project-features {
+  text-align: center;
+}
+
+#featurette {
+  background: url("../img/stuff-bg.jpg") 50% 100% repeat fixed;
+  background-size: cover;
+  text-align: center;
+  color: white;
+}
+
+#instructor {
+  background: white url("../img/brad-elvis.png") 90% -10px no-repeat;
+}
+
+#instructor h2 {
+  margin: 0 0 20px;
+}
+
+#instructor .num {
+  display: table;
+  font-size: 30px;
+  font-weight: bold;
+  color: white;
+  line-height: 24px;
+  height: 140px;
+  width: 140px;
+  text-align: center;
+  background: #dd5638;
+  -webkit-border-radius: 100%;
+  -moz-border-radius: 100%;
+  border-radius: 100%;
+  -webkit-font-smoothing: antialiased;
+  text-rendering: optimizelegibility;
+}
+
+#instructor .num .num-content {
+  display: table-cell;
+  vertical-align: middle;
+}
+
+#instructor .num span {
+  display: block;
+  font-size: 20px;
+  font-weight: normal;
+}
+
+#kudos {
+  text-align: center;
+}
+
+.testimonial {
+  margin-bottom: 60px;
+}
+
+.testimonial img {
+  border-radius: 50%;
+}
+
+#signup {
+  text-align: center;
+  background: url("assets/img/hipster-stuff.jpg") center center repeat fixed;
+  background-size: cover;
+  color: white;
+  padding: 140px 0;
+}
+
+#signup h2 {
+  font-weight: normal;
+}
+
+#signup h2 strong {
+  border-bottom: solid 2px #dd5638;
+}
+
+#signup .btn {
+  font-size: 24px;
+}

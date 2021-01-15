@@ -1,0 +1,10 @@
+//resource
+.resource {
+  width: 31.33333333%;
+  float: left;
+  margin: 0 3% 40px 0;
+}
+
+.resource:nth-child(3n) {
+  margin-right: 0;
+}
